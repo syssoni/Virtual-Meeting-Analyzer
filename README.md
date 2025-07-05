@@ -10,7 +10,15 @@ This project processes meetings or any video clip by extracting the speech, tran
 - `facebook/bart-large-cnn` - for summarizing the text
 - `distilbert-base-uncased-finetuned-sst-2-english` - for analyzing sentiment<br/>
 
-**Sentiment Analysis, Text summarization, Speech-to-text, Hugging Face model, Healthy/Unhealthy working environment, Speaker diarization**
+## Machine learning Pipeline
+1. Loading the video file and extracting audio from it
+2. Converting audio to text (Speech to text)
+3. Summarising the text
+4. Converting text to speech (Text to speech)
+5. Performing the sentiment analysis
+6. Classifying the working environment
+   
+**Sentiment Analysis, Text summarization, Speech-to-text, Text-to-speech, Hugging Face model, Healthy/Unhealthy working environment, Speaker diarization**
 
 ## Installation and setup
 ---
