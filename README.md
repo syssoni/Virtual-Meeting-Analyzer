@@ -39,7 +39,8 @@ This project processes meetings or any video clip by extracting the speech, tran
 
 ## Result
 ---
-
-
+<img src="https://raw.githubusercontent.com/syssoni/Virtual-Meeting-Analyzer/main/result/result_1.png" alt="Code_result" width="70%">
+<img src="https://raw.githubusercontent.com/syssoni/Virtual-Meeting-Analyzer/main/result/result_2.png" alt="Code_result" width="70%">
+<img src="https://raw.githubusercontent.com/syssoni/Virtual-Meeting-Analyzer/main/result/result_3.png" alt="Code_result" width="70%">
 
 
