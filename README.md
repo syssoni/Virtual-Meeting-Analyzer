@@ -18,7 +18,7 @@ This project processes meetings or any video clip by extracting the speech, tran
 5. Performing the sentiment analysis
 6. Classifying the working environment
    
-**Sentiment Analysis, Text summarization, Speech-to-text, Text-to-speech, Hugging Face model, Healthy/Unhealthy working environment, Speaker diarization**
+**Machine learning, Natural language processing, Sentiment Analysis, Text summarization, Speech-to-text, Text-to-speech, Hugging Face model, Healthy/Unhealthy working environment, Speaker diarization**
 
 ## Installation and setup
 ---
