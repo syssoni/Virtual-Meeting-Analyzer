@@ -1,4 +1,4 @@
-# Virtual-Meeting-Analyzer
+# Virtual-Meeting-Sentiment-Analyzer
 ---
 ## About the project
 This project processes meetings or any video clip by extracting the speech, transcribing it into concise summaries, and analyzing it to detect the sentiment/tone in the speech. After analysis, it can predict whether the environment is good, mediocre, or bad for working. Pre-trained models present on Hugging Face have been used for transcription and analysis.<br/>
